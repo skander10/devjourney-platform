@@ -1,6 +1,6 @@
 # devjourney-platform
 
-Personal dev platform — Version A: Lerntracker mit KI-Unterstützung.
+Personal dev platform — Lerntracker, Fußball-Analyse und AI-Features.
 
 ## Was ist das?
 Eine selbst gebaute Plattform zum Lernen, Analysieren und Automatisieren.
